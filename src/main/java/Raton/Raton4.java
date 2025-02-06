@@ -1,4 +1,4 @@
-package raton;
+package Raton;
 
 import java.util.Random;
 
